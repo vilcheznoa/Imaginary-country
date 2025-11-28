@@ -32,7 +32,7 @@ Imaginary-country/
 
 ## 🚀 Secciones
 
-1. **Inicio** - Carrusel con imágenes principales
+1. **Inicio** 
 2. **Intro al Mundo**
 3. **Estructura Social** 
 4. **Lugares**
