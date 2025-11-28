@@ -1,5 +1,9 @@
 # Imaginary Country - Norta
 
+## 🌐 Demo
+
+Sitio publicado: https://vilcheznoa.github.io/Imaginary-country/
+
 Proyecto académico que presenta el mundo ficticio de Norta, basado en la novela "Red Queen" de Victoria Aveyard.
 
 ## 📖 Descripción
@@ -32,7 +36,7 @@ Imaginary-country/
 
 ## 🚀 Secciones
 
-1. **Inicio** - Carrusel con imágenes principales
+1. **Inicio** 
 2. **Intro al Mundo**
 3. **Estructura Social** 
 4. **Lugares**
@@ -59,6 +63,7 @@ git clone https://github.com/vilcheznoa/Imaginary-country.git
 2. Abre `index.html` en tu navegador
 
 No requiere servidor web ni dependencias adicionales.
+
 
 ## 🎓 Propósito Académico
 
