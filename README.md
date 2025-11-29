@@ -38,14 +38,13 @@ Imaginary-country/
 
 1. **Inicio** 
 2. **Intro al Mundo**
-3. **Estructura Social** 
-4. **Lugares**
-5. **Guerra** 
-6. **Gestas** 
-7. **Poderes** 
-8. **Prueba** 
-9. **Guardia**
-10. **Derechos** 
+3. **Lugares**
+4. **Guerra** 
+5. **Gestas** 
+6. **Poderes** 
+7. **Prueba** 
+8. **Guardia**
+9. **Derechos** 
 
 ## 🛠️ Tecnologías
 
