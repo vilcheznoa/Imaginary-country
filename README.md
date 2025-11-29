@@ -8,7 +8,7 @@ Proyecto académico que presenta el mundo ficticio de Norta, basado en la novela
 
 ## 📖 Descripción
 
-Este sitio web es una presentación interactiva que explora el reino distópico de Norta, su estructura social dividida por el color de sangre (Plateados vs Rojos), sus lugares emblemáticos, la guerra centenaria, las Gestas, los poderes sobrenaturales y más.
+Este sitio web es una presentación interactiva que explora el reino distópico de Norta, su estructura social dividida por el color de sangre (Plateados vs Rojos), sus lugares emblemáticos, la guerra, las Gestas, los poderes sobrenaturales y más.
 
 ## 🎨 Características
 
